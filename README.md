@@ -61,7 +61,7 @@ The dashboard is fully interactive using **Slicers**:
 ---
 
 ## 🖼️ Dashboard Preview
-![Vrinda Store Dashboard](images/vrinda_dashboard.png)
+![Vrinda Store Dashboard](Dashboard.png)
 
 ---
 
